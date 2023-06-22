@@ -1,0 +1,69 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Backend Software Engineer
+# company:
+#   name: Example Co.
+#   url: "https://www.example.com"
+
+summary: 'I am a passionate backend software engineer with over 5 years of experience. My expertise lies in the gaming industry, where I have developed Discord bots and modifications for game servers like GS:GO and Minecraft. Over the past 2 years, I have focused on honing my skills in building high-load services using Go. Additionally, I am actively learning DevOps, including Kubernetes (k8s), to enhance my deployment and orchestration capabilities.'
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "no0evil0mail@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/MHunterG"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ncqat/"
+
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/adamnorman"
+
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+
+badges:
+- type: soft-skill-indicator
+  name: Fast Learner
+  percentage: 100
+  color: "#00adb5"
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 95
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 95
+  color: green
+
+######
+
+- type: soft-skill-indicator
+  name: Problem Solving
+  percentage: 90
+  color: "#FF0000"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: "#ffbb00"
+
+- type: soft-skill-indicator
+  name: Research
+  percentage: 95
+  color: "#a31db8"

@@ -1,0 +1,16 @@
+name: "Vladimir Ivanov"
+nickname: "Vladimir Ivanov"
+greeting: "Hi, I am"
+image: "images/author/avatar.jpg"
+
+contactInfo:
+  email: "no0evil0mail@gmail.com"
+  github: MHunterG
+  linkedin: ncqat
+  telegram: "@AdamNorman"
+
+summary:
+  - I am a Backend Developer
+  - I am a Beginner DevOps
+  - I love to work with Go!
+  - Not Punk 100%
