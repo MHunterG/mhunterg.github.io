@@ -1,7 +1,6 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://mhunterg.github.io'
 languageCode: 'en-us'
 title: "Vladimir's Resume"
-theme: 'toha'
 
 params:
   background: /images/site/background.jpg
