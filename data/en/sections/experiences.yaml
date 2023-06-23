@@ -1,4 +1,3 @@
-# section information
 section:
   name: Experiences
   id: experiences
@@ -8,49 +7,53 @@ section:
   
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    name: Ceiba - RT
+    # url: "https://www.example.com"
+    location: Russia, Remote
+    overview: A company that runs its own chat system and survey system throughout the country.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    end: Oct 2019
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Go Software Engineer
+    start: Apr 2022
+    end: May 2023
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz
+    - Spearheaded the development of a high-load survey system from scratch, ensuring robust performance under heavy traffic.
+    - Implemented performance optimizations on existing projects to enhance their efficiency and responsiveness.
+    - Actively contributed to designing system architectures and task distribution within the team.
+    - Provided support in managing servers and clusters, ensuring smooth operations and resolving issues promptly.
 
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    name: INUI Gaming
+    # url: "https://www.example.com"
+    # location: Dubai
+    overview: INUI Gaming is an innovative gaming ecosystem that will cover all the gamers' needs while ensuring cybersecurity and providing a safe trading platform for game developers. Aiming to eliminate cheating in PC gaming using our next-gen AI-based anti-cheat solutions.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    end: Oct 2019
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Go Software Engineer at Dubai, UAE
+    start: Aug 2021
+    end: Feb 2022
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Developed high-load systems for communication and content creation, ensuring seamless and reliable performance.
+    - Created internal tools for the company to streamline processes and improve operational efficiency.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Software Engineer at Astana, Kazakhstan
+    start: June 2019
+    end: Aug 2021
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz
+    - Developed Java Spring microservices.
+    - Created Python-based internal tools.
+    - Developed game modifications in C++.
+    - Created Go DLLs for integration with Python programs.
+
+- company:
+    name: TeamGDB
+    # url: "https://www.example.com"
+    location: Russia, Remote
+    overview: We are a skilled software development team specializing in Python Discord bots and custom game modifications. Our focus is on delivering quality solutions for the gaming industry. With a strong commitment to client satisfaction, we provide tailored services to meet unique needs. Drawing upon our expertise and passion for gaming, we offer reliable and customized solutions for our clients in the gaming world.
+  positions:
+  - designation: Python Software Engineer
+    start: June 2019
+    end: Aug 2020
+    responsibilities:
+      - Custom development of Discord bots
+      - Creation of game modifications
+      - Game server deployment and management
+      - Team management

@@ -6,21 +6,18 @@ params:
   background: /images/site/background.jpg
   newsletter:
     enable: false
+  
+  logo:
+    main: /images/site/main-logo.png
+    inverted: /images/site/inverted-logo.png
+    favicon: /images/site/favicon.png
 
-languages:
-  en:
-    languageName: English
-    weight: 1
-  ru:
-    languageName: Russian
-    weight: 3
-
-features:
+  features:
     darkMode:
       enable: true
       services:
         darkreader:
-          defaultColorScheme: system
+          defaultColorScheme: dark
           fixes:
             invert: ['img[src$=".svg"]']
           theme:
@@ -30,25 +27,25 @@ features:
     
     portfolio:
       enable: true
-
-    notes:
-      enable: true
     
     toc:
       enable: true
-
-
-    # Enable & configure "Notes" features
-    notes:
-      enable: true
-
-    # Enable comment feature. There, should be only one of them.
+  
     comment:
       enable: false
       services:
         disqus:
           shortName: toha-example-site
-        # valine:
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  ru:
+    languageName: Russian
+    weight: 3
+
+
 
 module:
   imports:
