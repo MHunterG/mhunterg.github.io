@@ -24,7 +24,7 @@ experiences:
 - company:
     name: INUI Gaming
     # url: "https://www.example.com"
-    # location: Dubai
+    location: Dubai
     overview: INUI Gaming is an innovative gaming ecosystem that will cover all the gamers' needs while ensuring cybersecurity and providing a safe trading platform for game developers. Aiming to eliminate cheating in PC gaming using our next-gen AI-based anti-cheat solutions.
   positions:
   - designation: Go Software Engineer at Dubai, UAE
@@ -35,7 +35,7 @@ experiences:
     - Created internal tools for the company to streamline processes and improve operational efficiency.
 
   - designation: Software Engineer at Astana, Kazakhstan
-    start: June 2019
+    start: Aug 2020
     end: Aug 2021
     responsibilities:
     - Developed Java Spring microservices.
