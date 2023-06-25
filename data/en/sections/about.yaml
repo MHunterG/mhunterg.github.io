@@ -31,8 +31,11 @@ socialLinks:
   url: "https://t.me/adamnorman"
 
 resourceLinks:
-- title: "My Resume"
+- title: "Resume (EN)"
   url: "files/resume.pdf"
+
+- title: "Resume (RU)"
+  url: "files/resume_ru.pdf"
 
 
 badges:

@@ -41,9 +41,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  ru:
-    languageName: Russian
-    weight: 3
+  # ru:
+  #   languageName: Russian
+  #   weight: 3
 
 
 
