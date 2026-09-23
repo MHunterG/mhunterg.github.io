@@ -77,7 +77,7 @@ function Hero() {
         </h1>
         <p className="hero-lede rise" style={delay(3)}>
           I build the systems machine learning runs on, the ones that have to stay fast, correct and
-          observable when the traffic is real. After hours I rebuild PlayStation Portable games as native
+          observable when the traffic is real. After hours I take old games apart and rebuild them as native
           programs.
         </p>
       </div>
@@ -126,16 +126,18 @@ function Ports() {
   return (
     <Section id="ports" index="02" kicker="After hours" seed={23}>
       <h2 id="ports-title" className="display">
-        PSP games,
+        Games,
         <br />
-        recompiled.
+        rebuilt.
       </h2>
       <div className="prose">
         <p>
-          My hobby is native ports of PSP games by static recompilation. Nothing is emulated. The game’s
-          original code is translated ahead of time into C++, compiled for a modern computer, and run on a
-          rewritten version of the PSP’s system software. What comes out is an ordinary program: Vulkan
-          graphics, any resolution, higher frame rates, today’s controllers.
+          I love games, and I love taking them apart to see how they work. My hobby is bringing old games
+          to modern machines as real native programs, by static recompilation. Nothing is emulated: the
+          game’s original code is translated ahead of time into C++, compiled for today’s computer, and run
+          on a rewritten version of the console’s system software. What comes out is an ordinary program:
+          Vulkan graphics, any resolution, higher frame rates, today’s controllers. Right now that means
+          handheld games from the PSP.
         </p>
         <p className="aside">
           None of these projects ship game files. You bring your own copy. All of them are works in
